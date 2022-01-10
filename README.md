@@ -1,1 +1,1 @@
-# BoisBot
+# Bois Discord Bot
